@@ -41,6 +41,7 @@ Example Questions
 "What should I know about investing in stocks?"
 "How can I manage my debt better?"
 Additional Resources
+<img width="1710" height="982" alt="Screenshot 2025-07-30 at 7 25 02 PM" src="https://github.com/user-attachments/assets/eafaa661-491b-4935-a743-a3cd72767b6b" />
 
 For users looking to deepen their understanding of personal finance, consider exploring the following resources:
 Books:
