@@ -63,4 +63,3 @@ Contributing
 Contributions to the Personal Finance Advisor Chatbot are welcome! If you have suggestions for improvements or additional features, please feel free to submit a pull request or open an issue.
 License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.<img width="1710" height="1107" alt="Screenshot 2025-07-28 at 1 52 52 PM" src="https://github.com/user-attachments/assets/f51e1bdc-3464-4d6d-9f43-d147eb5e4568" />
